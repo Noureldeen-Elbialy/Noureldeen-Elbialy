@@ -59,13 +59,17 @@
 </div>
 
 ###
-
+<div style={{display:'flex',justify-content:'space-between'}}>
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxZDRpeXg2bHA3eDE3cjhycWpmdTZxeWIwZHkwYng3a2dtODhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"  />
-
-###
-
+  <div>
+    
 ## 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Noureldeen-Elbialy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Noureldeen-Elbialy&theme=dark&hide_border=false)<br/>
+###
+
+  </div>
+</div>
+
 ###
